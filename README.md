@@ -4,5 +4,5 @@ We try to answer some questions regarding the usage of bikes, characteristics of
 This project being the first one in the course, it uses native python way of handling data. Meaning without using pandas or numpy which at this point in the course has not been introduced.
 
 ##### Requirements
-Python 3.6 (or higher)
+Python 3.6 (or higher) <br>
 matplotlib 2.1 (or higher)
